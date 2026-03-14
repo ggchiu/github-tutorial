@@ -5,3 +5,4 @@ ccccccccccccc
 ............
 
 newline
+conflict
